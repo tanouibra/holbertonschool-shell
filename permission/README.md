@@ -1,1 +1,1 @@
-pas vide 
+NO EMPTY
