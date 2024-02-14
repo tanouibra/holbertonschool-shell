@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/\.//g'
+echo "$VERSION" | tr -cd [:digit:]
