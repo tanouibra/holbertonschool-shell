@@ -1,2 +1,2 @@
 #!/bin/bash
-trd -d 'c' 'C'
+trd -d 'c' and 'C'
