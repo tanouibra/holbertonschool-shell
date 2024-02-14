@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$VERSION" | tr -cd [:digit:]
+trd -d 'c' and 'C'
